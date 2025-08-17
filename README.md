@@ -64,5 +64,5 @@ This project demonstrates an **end-to-end data engineering pipeline** built on A
 
 ## 📧 Contact
 If you found this project useful or want to collaborate, feel free to reach out!  
-**Author:** Anupam Singh  
+ 
 
